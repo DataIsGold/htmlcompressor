@@ -1,0 +1,1 @@
+Preservation of the Google Code project HTMLCompressor.
